@@ -6,7 +6,7 @@ Full Stack Developer
 About Me
 ========================
 
-• Undergraduate Student pursuing a BS degree in Computer Science with a keen interest in Cyber Security and Software Development; enjoys coding for fun and enhancing Ethical Hacking skills during spare time.
+• Undergraduate Student pursuing a BS degree in Computer Science with a keen interest in Cyber Security and Software Development.
 
 ### Tech Stack
 
