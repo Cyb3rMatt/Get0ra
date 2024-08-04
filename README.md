@@ -6,7 +6,7 @@ Software Engineer | CyberSecurity
 About Me
 ========================
 
-• Undergraduate Student pursuing a BS degree in Computer Science with a keen interest in Cyber Security and Software Development.
+•pursuing a BS degree in Computer Science with a keen interest in Cyber Security and Software Development.
 
 ### Tech Stack
 
