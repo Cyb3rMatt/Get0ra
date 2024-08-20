@@ -1,6 +1,6 @@
 Hi 👋 My name is Matthew
 ========================
-Software Engineer | CyberSecurity 
+Developer | CyberSecurity 
 ========================
 
 About Me
