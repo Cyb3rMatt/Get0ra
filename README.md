@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A passionate Cybersecurity Researcher & Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=get0ra&label=Profile%20views&color=0e75b6&style=flat" alt="Get0ra" /> </p>
 
